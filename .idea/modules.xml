@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaoDuLOC.iml" filepath="$PROJECT_DIR$/BaoDuLOC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/百度地图定位Dmeo/百度地图定位Dmeo.iml" filepath="$PROJECT_DIR$/百度地图定位Dmeo/百度地图定位Dmeo.iml" />
+    </modules>
+  </component>
+</project>

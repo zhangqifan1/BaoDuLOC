@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\FlyPigsDemos\BaoDuLOC\百度地图定位Dmeo\src\main\assets"/><source path="D:\FlyPigsDemos\BaoDuLOC\百度地图定位Dmeo\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\FlyPigsDemos\BaoDuLOC\百度地图定位Dmeo\src\debug\assets"/></dataSet></merger>

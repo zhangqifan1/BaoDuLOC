@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\build\\intermediates\\res\\merged\\debug\\layout\\notify.xml",
+        "source": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\src\\main\\res\\layout\\notify.xml"
+    },
+    {
+        "merged": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\build\\intermediates\\res\\merged\\debug\\layout\\quest_activity.xml",
+        "source": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\src\\main\\res\\layout\\quest_activity.xml"
+    },
+    {
+        "merged": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\build\\intermediates\\res\\merged\\debug\\layout\\location.xml",
+        "source": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\src\\main\\res\\layout\\location.xml"
+    },
+    {
+        "merged": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\build\\intermediates\\res\\merged\\debug\\layout\\autonotifyconfig.xml",
+        "source": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\src\\main\\res\\layout\\autonotifyconfig.xml"
+    },
+    {
+        "merged": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\build\\intermediates\\res\\merged\\debug\\layout\\locationfilter.xml",
+        "source": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\src\\main\\res\\layout\\locationfilter.xml"
+    },
+    {
+        "merged": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\build\\intermediates\\res\\merged\\debug\\layout\\locationalarm.xml",
+        "source": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\src\\main\\res\\layout\\locationalarm.xml"
+    },
+    {
+        "merged": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\build\\intermediates\\res\\merged\\debug\\layout\\locationconfig.xml",
+        "source": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\src\\main\\res\\layout\\locationconfig.xml"
+    },
+    {
+        "merged": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\build\\intermediates\\res\\merged\\debug\\layout\\function_list.xml",
+        "source": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\src\\main\\res\\layout\\function_list.xml"
+    },
+    {
+        "merged": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\build\\intermediates\\res\\merged\\debug\\layout\\hotwifi.xml",
+        "source": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\src\\main\\res\\layout\\hotwifi.xml"
+    },
+    {
+        "merged": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "D:\\FlyPigsDemos\\BaoDuLOC\\百度地图定位Dmeo\\src\\main\\res\\layout\\activity_main2.xml"
+    }
+]
